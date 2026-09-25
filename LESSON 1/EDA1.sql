@@ -1,3 +1,3 @@
 SELECT DISTINCT
-job_title
+job_location
 FROM job_postings_fact;
