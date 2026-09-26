@@ -5,6 +5,6 @@ The floowing projects are a collection of SQL projects that i have worked on to 
 
 ## Projects
 ### [1_EDA](/1_EDA/) - Exploratory Data Analysis
-![Project Overview](EDA_images\images.png)  
+![Project Overview](EDA_images/images.png)  
 
 SQL - driven analysis of data engineer job market trends using advanced querying technique
