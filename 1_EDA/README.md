@@ -1,5 +1,5 @@
 # EXPLORATORY Data Analyst by SQL: Job Market Analysis  
-![Project Overview](../EDA_images\images.png)
+![Project Overview](../EDA_images/images.png)
 
 A project using SQL to analyze real world job postings related to data engineer remote job by measuring a factors like in-demand skills, median salary in every skill and what are the optimal skills based on these. It demonstrate my ability to show my skill at analyzing data from database, using sql skill and identify key insight in for business from real data in recruitment platform.
 ## Executive Summary  
@@ -16,7 +16,7 @@ A project using SQL to analyze real world job postings related to data engineer 
 - **High compensation for skill**: What top skills which is prioritized a high salary?
 - **Optimal skills**: What are actually the skill that people should learn to become a data engineer with better career path?
 his project analyzes a **data warehouse** built using a star schema design. The warehouse structure consists of:
-![Data warehouse](../EDA_images\1_2_Data_Warehouse.png)
+![Data warehouse](../EDA_images/1_2_Data_Warehouse.png)
 - Fact table: `job_postings_fact`- Central table with columns like job_id, company_id, job_title, job_title_short, locations, salaries, date, etc.
 - **Dimension Tables:**  
   - `copany_dim`: showing information company like company_id, name, link
